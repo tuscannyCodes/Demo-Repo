@@ -1,2 +1,2 @@
 # Demo-Repo
-A demo repo to practice pushing an d pulling
+A demo repo to practice pushing and pulling
